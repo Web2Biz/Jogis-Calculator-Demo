@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jogis-Calculator-Demo/static/css/main.1635e87c.chunk.css",
+    "main.js": "/Jogis-Calculator-Demo/static/js/main.9c9e9ceb.chunk.js",
+    "main.js.map": "/Jogis-Calculator-Demo/static/js/main.9c9e9ceb.chunk.js.map",
+    "runtime-main.js": "/Jogis-Calculator-Demo/static/js/runtime-main.f353c431.js",
+    "runtime-main.js.map": "/Jogis-Calculator-Demo/static/js/runtime-main.f353c431.js.map",
+    "static/js/2.b436fd1e.chunk.js": "/Jogis-Calculator-Demo/static/js/2.b436fd1e.chunk.js",
+    "static/js/2.b436fd1e.chunk.js.map": "/Jogis-Calculator-Demo/static/js/2.b436fd1e.chunk.js.map",
+    "static/js/3.4ef69c4c.chunk.js": "/Jogis-Calculator-Demo/static/js/3.4ef69c4c.chunk.js",
+    "static/js/3.4ef69c4c.chunk.js.map": "/Jogis-Calculator-Demo/static/js/3.4ef69c4c.chunk.js.map",
+    "index.html": "/Jogis-Calculator-Demo/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/Jogis-Calculator-Demo/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.b436fd1e.chunk.js.LICENSE.txt": "/Jogis-Calculator-Demo/static/js/2.b436fd1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f353c431.js",
+    "static/js/2.b436fd1e.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.9c9e9ceb.chunk.js"
+  ]
+}
